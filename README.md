@@ -1,71 +1,101 @@
-# 👋 Hi, I'm Yunus Emre Coşkun
+<!-- HERO HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Yunus%20Emre%20Coşkun&fontSize=38&animation=fadeIn"/>
+</p>
 
-🚀 **Computer Engineer | Backend & Platform-Oriented Developer**  
-🛠 Building **scalable, observable, and production-ready systems**
+<h3 align="center">
+🚀 Computer Engineer | Backend & Platform-Oriented Developer
+</h3>
 
-I specialize in backend development, DevOps practices, and modern application platforms.  
+<p align="center">
+🛠 Building <b>scalable</b>, <b>observable</b>, and <b>production-ready</b> systems
+</p>
+
+---
+
+## 👋 About Me
+
+I specialize in **backend development**, **DevOps practices**, and **modern application platforms**.  
 My focus is on **containerized applications, CI/CD pipelines, observability, and infrastructure automation**, backed by strong software engineering fundamentals.
+
+I enjoy designing systems that are not only functional, but also **measurable, debuggable, and reliable** in real production environments.
 
 ---
 
 ## 🧠 What I Do
 
-- Design and develop **enterprise-grade backend systems**
-- Build **container-first architectures** with Docker & Kubernetes
-- Implement **CI/CD pipelines** aligned with real-world production workflows
-- Apply **observability-first mindset** using metrics, logs, and traces
-- Experiment and validate ideas in my **homelab** before production
+- 🏗 Design and develop **enterprise-grade backend systems**
+- 📦 Build **container-first architectures** with Docker & Kubernetes
+- 🔁 Implement **CI/CD pipelines** aligned with real-world workflows
+- 🔍 Apply an **observability-first mindset** (metrics, logs, traces)
+- 🧪 Experiment and validate ideas in my **homelab** before production
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Backend & Application Development
-- **Python** (Flask, Django)
-- **C#** (.NET Core / .NET Framework Web API)
-- RESTful API design, RBAC, JWT authentication
+<p>
+  <img src="https://img.shields.io/badge/Python-Flask%20%7C%20Django-blue?logo=python"/>
+  <img src="https://img.shields.io/badge/C%23-.NET%20Core%20%7C%20Web%20API-purple?logo=dotnet"/>
+</p>
+
+- RESTful API design
+- RBAC & JWT authentication
 - Layered & modular architectures
 
+---
+
 ### 🌐 Frontend
-- **Angular 19** (Standalone architecture)
+<p>
+  <img src="https://img.shields.io/badge/Angular-19-red?logo=angular"/>
+</p>
+
+- Standalone architecture
 - Reusable corporate UI components
 - Secure token-based communication & interceptors
 
 ---
 
-## ⚙️ DevOps & Infrastructure
+### ⚙️ DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-Compose-blue?logo=docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Homelab-blue?logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/GitHub-Actions-black?logo=githubactions"/>
+  <img src="https://img.shields.io/badge/Linux-Windows-informational?logo=linux"/>
+</p>
 
-- **Docker & Docker Compose**
-- **Kubernetes** (homelab & experimentation)
-- **GitHub Actions** (CI/CD pipelines)
-- Docker-in-Docker (DinD) for isolated builds
-- Linux & Windows Server administration
-- Nginx reverse proxy, DNS & TLS management
+- Docker-in-Docker (DinD) for isolated builds  
+- Nginx reverse proxy, DNS & TLS management  
 
 ---
 
-## 🔍 Observability & Reliability 
+## 🔍 Observability & Reliability
 
-> I strongly believe **“If you can’t observe it, you can’t operate it.”**
+> **“If you can’t observe it, you can’t operate it.”**
 
 ### 📊 Metrics & Monitoring
-- **Prometheus**
-- **Grafana**
-- **Zabbix**
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-metrics-orange?logo=prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-dashboards-black?logo=grafana"/>
+  <img src="https://img.shields.io/badge/Zabbix-monitoring-red"/>
+</p>
 
 ### 🔎 Distributed Tracing
-- **OpenTelemetry**
-- **Jaeger**
+<p>
+  <img src="https://img.shields.io/badge/OpenTelemetry-tracing-blue?logo=opentelemetry"/>
+  <img src="https://img.shields.io/badge/Jaeger-traces-orange?logo=jaeger"/>
+</p>
 
 ### 🚨 Alerting & Incident Awareness
-- **Alertmanager**
-- Threshold-based & service-level alerts
+<p>
+  <img src="https://img.shields.io/badge/Alertmanager-alerts-lightgrey"/>
+</p>
 
-### 🧾 Logging
-- Structured logging practices
-- Centralized log analysis mindset
+- Threshold-based & service-level alerts  
+- Structured logging & centralized log analysis  
 
-I actively integrate **metrics, logs, and traces** into applications to detect issues early, reduce MTTR, and improve system reliability.
+I actively integrate **metrics, logs, and traces** to detect issues early, reduce **MTTR**, and improve system reliability.
 
 ---
 
@@ -76,21 +106,25 @@ I run a personal **homelab** to simulate real-world production environments:
 - Proxmox & VMware ESXi virtualization
 - Kubernetes clusters
 - Observability stacks (Prometheus, Grafana, Jaeger, Zabbix)
-- DNS, mail servers (Postfix/Dovecot)
+- DNS & mail servers (Postfix / Dovecot)
 - Firewall & network segmentation (OPNsense)
 
-This environment allows me to:
-- Test failure scenarios
-- Practice troubleshooting
-- Validate DevOps & SRE concepts hands-on
+**This allows me to:**
+- 🔥 Test failure scenarios
+- 🛠 Practice real troubleshooting
+- 📈 Validate DevOps & SRE concepts hands-on
 
 ---
 
 ## 📦 Databases & Messaging
-- Microsoft SQL Server
-- MongoDB
-- Redis
-- Query optimization & caching strategies
+<p>
+  <img src="https://img.shields.io/badge/MSSQL-database-blue"/>
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-green?logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Redis-cache-red?logo=redis"/>
+</p>
+
+- Query optimization  
+- Caching strategies  
 
 ---
 
@@ -105,11 +139,12 @@ This environment allows me to:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrecoskun1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrecoskun1&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emrecoskun1&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecoskun1&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
-
 
 ## 📫 Connect With Me
 
@@ -117,3 +152,8 @@ This environment allows me to:
 - 🧑‍💻 GitHub: https://github.com/emrecoskun1
 - ✍️ Medium: https://yunusemrecoskunn.medium.com/
 
+---
+
+<p align="center">
+⚡ Always learning • Always automating • Always observing
+</p>
